@@ -1,4 +1,4 @@
 - 👋 Hi
-- 👀 I’m interested in Software
-- 🌱 I’m currently learning .Net
-- 💞️ 
+
+
+
